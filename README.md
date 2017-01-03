@@ -1,12 +1,12 @@
-#_{Pets Website}_
+# _Pets Website_
 
-#### _{A website about pets}, {1/2/17}_
+#### _A website about pets, 1/2/17_
 
-#### By _**{Brendan Grubb & Calvin Cushman}**_
+#### By _**Brendan Grubb & Calvin Cushman**_
 
 ## Description
 
-_{A basic website about our pets, featuring pictures and links}_
+_A basic website about our pets, featuring pictures and links_
 
 ## Setup/Installation Requirements
 
@@ -16,18 +16,18 @@ _{A basic website about our pets, featuring pictures and links}_
 
 ## Known Bugs
 
-_{No known bugs}_
+_No known bugs_
 
 ## Support and Contact Details
 
-_{If you run in to any issues or have any questions, please feel free to contact brendangrubb@gmail.com}_
+_If you run in to any issues or have any questions, please feel free to contact brendangrubb@gmail.com_
 
 ## Technologies Used
 
-_{As you may have suspected, I used only HTML. Oh, and Markdown for the README. What do you want!? I'm a beginner!}_
+_As you may have suspected, I used only HTML. Oh, and Markdown for the README. What do you want!? I'm a beginner!_
 
 ### License
 
-*{This webpage is licensed under the GPL license.}*
+*This webpage is licensed under the GPL license.*
 
-Copyright (c) 2017 **_{Brendan Grubb, Calvin Cushman}_**
+Copyright (c) 2017 **_Brendan Grubb, Calvin Cushman_**
