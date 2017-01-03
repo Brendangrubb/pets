@@ -6,13 +6,13 @@
 
 ## Description
 
-_A basic website about our pets, featuring pictures and links_
+_A basic website about our pets, featuring pictures and links._
 
 ## Setup/Installation Requirements
 
-* _First, know how to use the internet.
-* _Then, go to my pets website.
-* _Enjoy learning about our pets!
+* _First, know how to use the internet._
+* _Then, go to my pets website._
+* _Enjoy learning about our pets!_
 
 ## Known Bugs
 
